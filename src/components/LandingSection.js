@@ -1,7 +1,7 @@
 import React from "react";
 import { Avatar, Heading, VStack } from "@chakra-ui/react";
 import FullScreenSection from "./FullScreenSection";
-import profileImage from '../images/Iftepf.jfif';
+import profileImage from '../images/Iftepf.PNG';
 
 const greeting = "Hi nice to meet you, I'm Ifte and welcome to my website";
 const bio1 = "Software Engineering and IT Enthusianist";
