@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Ifte-Ace-Website/static/css/main.df6a7eab.css",
-    "main.js": "/Ifte-Ace-Website/static/js/main.a9b5af50.js",
+    "main.js": "/Ifte-Ace-Website/static/js/main.876bd190.js",
     "static/js/111.8c8dc871.chunk.js": "/Ifte-Ace-Website/static/js/111.8c8dc871.chunk.js",
     "static/media/iron.jpg": "/Ifte-Ace-Website/static/media/iron.0e82ba353f47d32fb933.jpg",
     "static/media/cloud.jpg": "/Ifte-Ace-Website/static/media/cloud.2f3384593af532fc4601.jpg",
+    "static/media/Iftepf.PNG": "/Ifte-Ace-Website/static/media/Iftepf.05fc93bf0b6c88dac68b.PNG",
     "static/media/ll.PNG": "/Ifte-Ace-Website/static/media/ll.4e72978b2a2a62cb890d.PNG",
     "static/media/ac.PNG": "/Ifte-Ace-Website/static/media/ac.e94eadf176248881dc60.PNG",
     "static/media/cc.PNG": "/Ifte-Ace-Website/static/media/cc.5e068d06c9eb673a2930.PNG",
     "static/media/mb.PNG": "/Ifte-Ace-Website/static/media/mb.dcfd10ea287c8988e37f.PNG",
-    "static/media/Iftepf.jfif": "/Ifte-Ace-Website/static/media/Iftepf.b1de39859008160f44bf.jfif",
     "index.html": "/Ifte-Ace-Website/index.html",
     "main.df6a7eab.css.map": "/Ifte-Ace-Website/static/css/main.df6a7eab.css.map",
-    "main.a9b5af50.js.map": "/Ifte-Ace-Website/static/js/main.a9b5af50.js.map",
+    "main.876bd190.js.map": "/Ifte-Ace-Website/static/js/main.876bd190.js.map",
     "111.8c8dc871.chunk.js.map": "/Ifte-Ace-Website/static/js/111.8c8dc871.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df6a7eab.css",
-    "static/js/main.a9b5af50.js"
+    "static/js/main.876bd190.js"
   ]
 }
